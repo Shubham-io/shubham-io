@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham-io&label=Profile%20views&color=0e75b6&style=flat" alt="shubham-io" /> </p>
 
-- 🌱 I’m currently learning **backend and cloud**
+- 🌱 I’m currently learning **Web Development**
 
 - 💬 Ask me about **code**
 
