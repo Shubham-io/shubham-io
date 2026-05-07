@@ -1,9 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Shubham Vishwakarma
 ============================================================================================================================================
 
-Full Stack Developer
---------------------
-
 I’m a full stack developer, interested in building scalable and maintainable web applications. During my frontend internship, I worked with production-level codebases and learned how real-world applications are built and maintained. Currently, I’m learning more about backend development, APIs, system design, and performance optimization while building full stack projects and improving my problem-solving skills.
 
 * 🌍  I'm based in India
